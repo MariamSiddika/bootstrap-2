@@ -1,0 +1,15 @@
+body{
+    
+font-family: 'Bebas Neue', cursive;
+font-family: 'DM Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.h-one{
+    color: #FA804C
+}
+.h-two{
+    color:rgba(54, 57, 88, 1);
+}
+.col-img{
+    background-color: rgb(243, 240, 240);
+}
